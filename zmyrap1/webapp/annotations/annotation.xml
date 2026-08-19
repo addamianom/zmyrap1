@@ -11,7 +11,9 @@
                 <Annotation Term="UI.SelectionFields">
                     <Collection>
                         <PropertyPath>OrderNo</PropertyPath>
-                          <PropertyPath>OrderType</PropertyPath>
+                        <PropertyPath>OrderType</PropertyPath>
+                        <PropertyPath>Customer</PropertyPath>
+                        <PropertyPath>GrossAmt</PropertyPath>
                     </Collection>
                 </Annotation>
             </Annotations>
